@@ -2,7 +2,8 @@
 
 
 🌱 I’m currently exploring the world of frontend and backend development while searching for job.  
-📫 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/hanyalh/)  
+📫 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/hanyalh/)
+💻 Check out my portfolio [**Portfolio**](https://hanyalhabboby-portfolio.netlify.app/)
 
 ---
 
