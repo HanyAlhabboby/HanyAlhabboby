@@ -1,19 +1,18 @@
 # 👋 Hi there, I’m Hany Alhabboby
 
 ♎ **About me**  
-🌱 I’m currently exploring the world of frontend and backend development.  
-⚡ Searching for a job as well  
+🌱 I’m currently exploring the world of frontend and backend development while searching for job.  
 📫 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/hanyalh/)  
 
 ---
 
 ## 🐣 My journey
-I’m currently a student at **ChasAcademy**, in the midst of my journey to becoming a **fullstack developer**, and I’m absolutely hyped to master coding and bring ideas to life!  
 
-With over a decade of experience in **retail**, I’ve developed a strong understanding of **human behavior** and gained extensive knowledge in **usability** and **customer interaction**.  
+I recently graduated as a .NET developer, and with a background in warehouse operations, tourism, and media technology, I’ve gained a broad understanding of both people and technology.
 
-I’m naturally curious — always wanting to understand *how* and *why* things work.  
-I love optimizing and solving problems, so transitioning into tech felt like the most natural step for me. 🚀  
+These experiences have given me a strong sense of structure, problem-solving, and communication, while also sparking my curiosity about how technology can simplify and improve everyday life.
+
+I thrive in environments where I can analyze, create, and optimize — whether it’s writing clean code, improving user experiences, or collaborating in a team to find the best solutions.  
 
 ---
 
@@ -29,32 +28,19 @@ I love optimizing and solving problems, so transitioning into tech felt like the
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![UI/UX](https://img.shields.io/badge/-UI%2FUX-FF69B4?style=for-the-badge&logo=figma&logoColor=white)
-![IT Security](https://img.shields.io/badge/-IT%20Security-2F5E89?style=for-the-badge&logo=securityscorecard&logoColor=white)
+
 
 ---
 
-## 🧠 Currently learning
-
-📚 Deepening my knowledge in **backend architecture**, **API design**, and **secure authentication**.  
-💬 Exploring **clean code principles** and **design patterns** in C# and .NET.  
-
----
 
 ## 🎯 Goals
 
-- 💼 Become a confident and skilled **fullstack developer**  
-- 🌍 Build meaningful, user-friendly applications  
-- 🧩 Keep learning, sharing, and experimenting with new technologies  
+- 💼 Master backend development while exploring more of the frontend world 
+- 🌍 Keep learning every day — from code, people, and mistakes.
+- 🧩 Write clean, readable, and scalable code (future me will thank me!).
 
 ---
 
-## 🐙 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chokladglasyr&layout=compact&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chokladglasyr&show_icons=true&theme=tokyonight)
-
----
 
 ✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
 — Cory House
