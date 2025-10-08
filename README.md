@@ -1,9 +1,9 @@
-# 👋 Hi there, I’m Hany Alhabboby
+# 👋 Hi there, I’m Hany Alhabboby — coding my way through the fullstack universe! 🌌
 
 
 🌱 I’m currently exploring the world of frontend and backend development while searching for job.  
-📫 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/hanyalh/)
-💻 Check out my portfolio [**Portfolio**](https://hanyalhabboby-portfolio.netlify.app/)
+📫 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/hanyalh/) <br>
+💻 Check out my [**Portfolio**](https://hanyalhabboby-portfolio.netlify.app/)
 
 ---
 
