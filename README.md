@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Hany Alhabboby
 
-♎ **About me**  
+
 🌱 I’m currently exploring the world of frontend and backend development while searching for job.  
 📫 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/hanyalh/)  
 
